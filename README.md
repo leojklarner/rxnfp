@@ -1,3 +1,6 @@
+This is an RXNFP fork without dependencies to make [GAUCHE](https://github.com/leojklarner/gauche) pip installable.
+
+
 # RXNFP - chemical reaction fingerprints
 > This library generates chemical reaction fingerprints from reaction SMILES
 
